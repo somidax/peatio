@@ -44,7 +44,7 @@ gem 'simple_form', '~> 5.0.0'
 gem 'slim-rails', '>= 3.1.0'
 gem 'sass-rails', '>= 5.0.5'
 gem 'coffee-rails', '>= 4.1.1'
-gem 'uglifier', '>= 2.7.2'
+gem 'uglifier', '>= 2.4.0'
 gem "jquery-rails", ">= 4.3.4"
 gem "angularjs-rails"
 gem 'bootstrap-sass', '~> 3.4.0.0'
@@ -65,9 +65,9 @@ gem 'easy_table', '>= 0.0.6'
 gem 'phonelib', '~> 0.3.5'
 gem 'twilio-ruby', '~> 5.7.2'
 gem 'unread', github: 'InfraexDev/unread'
-gem 'carrierwave', '~> 1.0.0'
+gem 'carrierwave', '~> 0.10.0'
 gem 'simple_captcha2', '0.3.0'
-gem 'rest-client', '~> 1.8.0'
+gem 'rest-client', '~> 1.6.8'
 
 group :development, :test do
   gem 'factory_girl_rails', '>= 4.3.0'
