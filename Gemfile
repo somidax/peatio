@@ -45,7 +45,7 @@ gem 'slim-rails', '>= 3.1.0'
 gem 'sass-rails', '>= 5.0.5'
 gem 'coffee-rails', '>= 4.1.1'
 gem 'uglifier', '>= 2.7.2'
-gem "jquery-rails", ">= 4.3.4"
+gem "jquery-rails", ">= 3.1.3"
 gem "angularjs-rails"
 gem 'bootstrap-sass', '~> 3.4.0.0'
 gem 'bootstrap-wysihtml5-rails', '>= 0.3.1.23'
