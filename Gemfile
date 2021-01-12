@@ -13,8 +13,8 @@ gem 'jbuilder', '>= 2.0.2'
 gem 'bcrypt-ruby', '~> 3.1.2'
 
 gem 'doorkeeper', '~> 4.2.6'
-gem 'omniauth', '~> 1.3.2'
-gem 'omniauth-identity', '~> 1.1.1'
+gem 'omniauth', '~> 2.0.0'
+gem 'omniauth-identity', '~> 2.0.0'
 
 gem 'figaro', '>= 1.0.0'
 gem 'hashie'
