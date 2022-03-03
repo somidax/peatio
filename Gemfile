@@ -67,7 +67,7 @@ gem 'twilio-ruby', '~> 5.7.2'
 gem 'unread', github: 'InfraexDev/unread'
 gem 'carrierwave', '~> 1.0.0'
 gem 'simple_captcha2', '0.3.0'
-gem 'rest-client', '~> 1.8.0'
+gem 'rest-client', '~> 1.6.8'
 
 group :development, :test do
   gem 'factory_girl_rails', '>= 4.3.0'
