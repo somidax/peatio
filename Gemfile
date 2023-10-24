@@ -74,7 +74,7 @@ group :development, :test do
   gem 'faker', '~> 1.4.3'
   gem 'mina', '>= 0.3.0'
   gem 'mina-slack', github: 'InfraexDev/mina-slack'
-  gem 'meta_request', '>= 0.2.8'
+  gem 'meta_request', '>= 0.2.9'
   gem 'better_errors'
   gem 'binding_of_caller'
   gem 'pry-rails'
