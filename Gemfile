@@ -75,7 +75,7 @@ group :development, :test do
   gem 'mina', '>= 0.3.0'
   gem 'mina-slack', github: 'InfraexDev/mina-slack'
   gem 'meta_request', '>= 0.2.8'
-  gem 'better_errors'
+  gem 'better_errors', '>= 2.8.0'
   gem 'binding_of_caller'
   gem 'pry-rails'
   gem 'quiet_assets', '>= 1.0.2'
