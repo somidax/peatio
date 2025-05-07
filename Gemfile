@@ -82,7 +82,7 @@ group :development, :test do
   gem 'mails_viewer', '>= 0.1.2'
   gem 'timecop'
   gem 'dotenv-rails'
-  gem 'rspec-rails', '>= 2.14.1'
+  gem 'rspec-rails', '>= 8.0.0'
   gem 'byebug'
 end
 
