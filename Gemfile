@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '~> 6.1.7', '>= 6.1.7.1'
+gem 'rails', '~> 7.1.5', '>= 7.1.5.2'
 gem 'rails-i18n', '>= 4.0.2'
 
 gem 'mysql2', '~> 0.3.21'
@@ -24,13 +24,13 @@ gem 'amqp', '~> 1.3.0'
 gem 'bunny', '~> 1.2.1'
 gem 'cancancan'
 gem 'enumerize', '>= 0.8.0'
-gem 'datagrid', '>= 1.0.5'
+gem 'datagrid', '>= 1.1.0'
 gem 'acts-as-taggable-on', '>= 3.1.0'
 gem 'kaminari', '>= 0.15.1'
-gem 'paranoid2', '>= 1.1.3'
+gem 'paranoid2', '>= 1.1.4'
 gem 'active_hash', '>= 1.3.0'
 gem 'http_accept_language'
-gem "globalize", "~> 6.0.0"
+gem "globalize", "~> 6.3.0"
 gem 'paper_trail', '~> 10.3.1'
 gem 'rails-observers', '>= 0.1.4'
 gem 'country_select', '~> 2.1.0'
@@ -79,7 +79,7 @@ group :development, :test do
   gem 'binding_of_caller'
   gem 'pry-rails'
   gem 'quiet_assets', '>= 1.0.2'
-  gem 'mails_viewer', '>= 0.1.2'
+  gem 'mails_viewer', '>= 0.2.0'
   gem 'timecop'
   gem 'dotenv-rails'
   gem 'rspec-rails', '>= 2.14.1'
